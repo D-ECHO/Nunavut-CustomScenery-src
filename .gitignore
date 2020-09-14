@@ -1,0 +1,9 @@
+work/
+output/
+groundnet/aptdat2sqlite.py
+groundnet/Airports
+groundnet/apt.dat
+groundnet/legacy-groundnets-icao.lst
+groundnet/groundnets.db
+groundnet/sqlite2xml.py
+data/SRTM-3/*.hgt

@@ -1,0 +1,5 @@
+This folder contains the following scripts/files from mherweg's repository https://github.com/mherweg/d-laser-fgtools
+	*aptdat2sqlity.py
+	*sqlite2xml.py
+	*legacy-groundnets-icao.lst
+They are not distributed along with this repository to avoid multiple different versions of these being available in different locations leading to confusion.
