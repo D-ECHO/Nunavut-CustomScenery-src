@@ -1,5 +1,6 @@
 case $1 in
-	1) geo='--min-lon=-68.75 --max-lon=-68.25 --min-lat=63.5 --max-lat=64.0';; # CYFB
+	1) geo='--min-lon=-69 --max-lon=-68 --min-lat=63.5 --max-lat=64.0';; # CYFB
+	2) geo='--min-lon=-70 --max-lon=-68 --min-lat=63.0 --max-lat=63.5';; # south of CYFB
 esac
 echo $1
 echo $geo
